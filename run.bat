@@ -1,1 +1,1 @@
-cd out/build && ./OLAS
+cd out/build/debug && OLAS 

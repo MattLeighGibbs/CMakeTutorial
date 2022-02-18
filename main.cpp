@@ -1,8 +1,10 @@
 #include <iostream>
-#include "Adder/adder.h"
+#include "DogPound/labrador.h"
+#include <GLFW/glfw3.h>
 
 int main()
 {
-    std::cout << add(72.1f, 73.8f) << std::endl;
+    Labrador labrador;
+    labrador.doTrick();
     return 0;
 }

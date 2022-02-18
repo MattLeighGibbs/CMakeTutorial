@@ -1,0 +1,1 @@
+add_library(dogpound labrador.cpp dog.cpp)
